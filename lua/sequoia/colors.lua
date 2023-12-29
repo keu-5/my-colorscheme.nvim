@@ -7,13 +7,13 @@ function M.setup()
         none = "NONE",
         bg = "#0F1014",
 
-        fg = "#868690",
+        fg = "#b4b4c2",
 
         base = "#0F1014",
         interface = "#111216",
-        text = "#868690",
+        text = "#b4b4c2",
         slight = "#575861",
-        soft = "#868690",
+        soft = "#b4b4c2",
 
         focus_high = "#1F1F24",
 
@@ -21,7 +21,7 @@ function M.setup()
         purple = "#c58fff",
         pink = "#f58ee0",
         orange = "#ffbb88",
-        gray = "#9898a6",
+        gray = "#a6a6ba",
         white = "#fdfdfe",
     }
     colors.bg_cursor_line = "#18191e"
