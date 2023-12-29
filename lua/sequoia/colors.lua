@@ -13,7 +13,7 @@ function M.setup()
         interface = "#111216",
         text = "#b4b4c2",
         slight = "#575861",
-        soft = "#ffbb88",
+        soft = "#ffffbb",
 
         focus_high = "#1F1F24",
 
