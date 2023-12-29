@@ -13,7 +13,7 @@ function M.setup()
         interface = "#111216",
         text = "#868690",
         slight = "#575861",
-        soft = "#43444D",
+        soft = "#868690",
 
         focus_high = "#1F1F24",
 
@@ -67,7 +67,7 @@ function M.setup()
     }
     colors.error_fg = colors.pink
     colors.diffEditor = {
-        diff_fg = colors.orange,
+        diff_fg = colors.soft,
         incertedText_bg = colors.blue,
         removedText_bg = colors.pink,
         changed_bg = colors.orange,
