@@ -21,7 +21,7 @@ function M.setup()
         purple = "#c58fff",
         pink = "#f58ee0",
         orange = "#ffbb88",
-        gray = "#a6a6ba",
+        gray = "#9898a6",
         white = "#fdfdfe",
     }
     colors.bg_cursor_line = "#18191e"
