@@ -7,7 +7,7 @@ function M.setup()
         none = "NONE",
         bg = "#0F1014",
 
-        fg = "#b4b4c2",
+        fg = "#ffbb88",
 
         base = "#0F1014",
         interface = "#111216",
