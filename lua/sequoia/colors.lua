@@ -67,13 +67,13 @@ function M.setup()
     }
     colors.error_fg = colors.pink
     colors.diffEditor = {
-        diff_fg = colors.soft,
+        diff_fg = colors.orange,
         incertedText_bg = colors.blue,
         removedText_bg = colors.pink,
         changed_bg = colors.orange,
     }
     colors.tokenColors = {
-        comment_fg = colors.orange,
+        comment_fg = colors.soft,
         constant = {
             fg = colors.white,
             numeric_fg = colors.orange,
