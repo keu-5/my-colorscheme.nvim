@@ -73,7 +73,7 @@ function M.setup()
         changed_bg = colors.orange,
     }
     colors.tokenColors = {
-        comment_fg = colors.soft,
+        comment_fg = colors.orange,
         constant = {
             fg = colors.white,
             numeric_fg = colors.orange,
