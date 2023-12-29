@@ -7,13 +7,13 @@ function M.setup()
         none = "NONE",
         bg = "#0F1014",
 
-        fg = "#ffbb88",
+        fg = "#dddded",
 
         base = "#0F1014",
         interface = "#111216",
-        text = "#b4b4c2",
+        text = "#dddded",
         slight = "#575861",
-        soft = "#dddded",
+        soft = "#b4b4c2",
 
         focus_high = "#1F1F24",
 
